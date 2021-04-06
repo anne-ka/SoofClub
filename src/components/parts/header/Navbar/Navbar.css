@@ -1,0 +1,25 @@
+a {
+  text-decoration: none;
+}
+ li:hover {
+  background-color: #e6ffff;
+}
+ li {
+  border: 2px solid #271a0c;
+  border-radius: 10px;
+  background: rgba(255, 230, 255,0.3);
+  margin-left: 24;
+  width: 120px;
+}
+ a {
+  text-align: center;
+  transition: all 0.3s ease;
+  color: #271a0c;
+  font-size: 30px;
+  font-family: 'Varela Round', sans-serif;
+  text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    margin-top: 30px;
+}
